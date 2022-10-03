@@ -15,15 +15,15 @@ footer{
 }
 
 .borda{
-    background: url(mad.jpg);
+    background: url(woodcartoon.jpg);
     padding: 2rem;
     box-shadow: 1px 4px 2px rgb(180, 176, 176);
     
 }
 .pe{
-    background: url(mad.jpg);
+    background: url(woodcartoon.jpg);
     box-shadow: 1px 4px 2px 8px rgb(180, 176, 176);
 }
 .content{
-    background: url(mad.jpg);
+    background: url(woodcartoon.jpg);
 }
